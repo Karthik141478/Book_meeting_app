@@ -1,0 +1,13 @@
+{
+    "users": [
+      { "id": 1, "name": "Alice", "email": "alice@example.com" },
+      { "id": 2, "name": "Bob", "email": "bob@example.com" }
+    ],
+    "meetingRooms": [
+      { "id": 1, "name": "Room A" },
+      { "id": 2, "name": "Room B" }
+    ],
+    "meetings": [
+      { "id": 1, "roomId": 1, "userId": 1, "startTime": "2024-11-07T09:00:00", "endTime": "2024-11-07T10:00:00", "status": "Booked" }
+    ]
+  }  
